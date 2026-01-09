@@ -1,4 +1,4 @@
-## Hi there, I am Kritika Sharma👋
+# Hi there, I am Kritika Sharma👋
 
 # 💫 About Me:
 Engineering student focused on AI-driven Cybersecurity.<br>Currently working with Python, C, Linux, Git, and foundational ML.<br>Learning DSA, automation, and security concepts through hands-on projects.<br>Building projects, breaking things, and documenting the process.
