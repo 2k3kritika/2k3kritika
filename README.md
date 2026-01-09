@@ -16,6 +16,4 @@ An Engineering student focused on AI-driven Cybersecurity.<br>I am Currently wor
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=2k3kritika&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
-
----
+![snake gif](https://github.com/2k3kritika/2k3kritika/blob/output/github-snake-dark.svg)
