@@ -12,9 +12,9 @@ An Engineering student focused on AI-driven Cybersecurity.<br>I am Currently wor
 
 # 📊 GitHub Stats:
 <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=2k3kritika&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-    ![](https://nirzak-streak-stats.vercel.app/?user=2k3kritika&theme=dark&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=2k3kritika&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=2k3kritika&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=2k3kritika&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=2k3kritika&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
   
