@@ -16,8 +16,8 @@ An Engineering student focused on AI-driven Cybersecurity.<br>I am Currently wor
 ![](https://nirzak-streak-stats.vercel.app/?user=2k3kritika&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=2k3kritika&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-  
+# 🌱 GitHub Contributions:
+<div align="center">
    ![snake gif](https://github.com/2k3kritika/2k3kritika/blob/output/github-snake-dark.svg)
   
 </div>
