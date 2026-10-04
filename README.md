@@ -35,25 +35,18 @@ Currently in development.
 
 The goal is to build a practical platform for organizing OSINT investigations, evidence, analysis, and reporting.
 
-### 🔐 Secure Notes
-
-**Full-Stack Secure Notes Web Application**
-
-A practical full-stack project focused on building a secure application from the ground up.
-
-* React frontend
-* FastAPI backend
-* PostgreSQL
-* Authentication & authorization
-* Secure data handling
 
 ### 🌐 WebTrace
+
+[Click here to see the project repo](https://github.com/2k3kritika/Web-Trace.git)
 
 **Web Crawling & Data Extraction Platform**
 
 A project focused on collecting and structuring publicly available web content through configurable crawling workflows.
 
 ### 🛡️ AI-Powered Keylogger Detector
+
+[Click here to see the project repo](https://github.com/2k3kritika/Project-3-Keylogger-Detector-using-python.git)
 
 A Python and machine-learning project exploring the detection of suspicious keylogger-related processes using process data and a Random Forest classifier.
 
